@@ -1,0 +1,13 @@
+html{
+    background-color: bisque;
+}
+p{
+    margin:15px;
+}
+form{
+    display: flex;
+    align-items: center;
+}
+.result-container{
+    display: flex;
+}
