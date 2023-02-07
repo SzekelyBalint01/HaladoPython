@@ -1,5 +1,8 @@
 # HaladoPython
 
+# Python 3.9
+  E feletti verziók már nem támogatják a deep-translator.
+
 # Program funkciója
 
     Bemeneti szót átfordítja a kívánt nyelvre
@@ -8,8 +11,9 @@
 
     flask
     loguru
-    deep_translator
-    (GoogleTranslator)
+    google-cloud-translate
+    google-auth
+    deep-translator
 
 # Fügvények
 
